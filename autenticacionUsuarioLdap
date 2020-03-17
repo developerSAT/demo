@@ -1,0 +1,32 @@
+{
+    "version": {
+        "fecha": "30/04/19 10:30",
+        "version": "4.0.4 Rev 32",
+        "descripcion": "Servicios para la aplicación móvil.",
+        "actualizacion": "Servicio web de SIJE Móvil"
+    },
+    "code": 200,
+    "status": "Éxito.",
+    "message": "éxito.",
+    "causa": null,
+    "idEstado": 13,
+    "idDistrito": 1,
+    "idUsuario": 18,
+    "tipoUsuario": 6,
+    "uid": "eric.ruizc.ext1",
+    "nombreUsuario": null,
+    "apellidosUsuarioSn": null,
+    "nombreCompleto": null,
+    "curp": null,
+    "correo": null,
+    "cn": "Ruiz Castañeda Eric",
+    "dn": "uid=eric.ruizc.ext1,ou=externo,ou=People,dc=ife.org.mx",
+    "rfc": null,
+    "password": null,
+    "roles": [
+        "SIJE.CAPTURA_CAE.JD",
+        "ELECINE.CAPTURA_CAE.JD"
+    ],
+    "usuarioEncontrado": true,
+    "consultaPopular": "N"
+}
